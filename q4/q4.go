@@ -10,6 +10,6 @@ package q4
 //Caso a lista possua apenas um elemento, a função deve retornar 3.
 
 func ClassifyPrices(prices []int) (int, error) {
-	// Seu código aqui
+	// resolva
 	return 0, nil
 }
